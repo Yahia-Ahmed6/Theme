@@ -1,7 +1,6 @@
 # 💫 About Me:
 🧑‍💻 I’m currently working on backend projects using Node.js and Express.js, focusing on building RESTful APIs and database integration.<br>🤝 I’m looking to collaborate on open‑source backend tools or student projects that involve API design and authentication.<br>🧠 I’m currently learning advanced TypeScript patterns and testing with Jest.<br>💬 Ask me about backend architecture, database design, or Node.js best practices.<br>⚡ Fun fact: I love turning complex logic into clean, efficient code!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yahia Ahmed) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yahia Ahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahia.ah8@gmail.com) 
 
